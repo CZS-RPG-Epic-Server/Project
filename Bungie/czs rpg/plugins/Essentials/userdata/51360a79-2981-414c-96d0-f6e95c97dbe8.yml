@@ -1,0 +1,21 @@
+lastAccountName: DraganCZ
+timestamps:
+  login: 1586791327595
+  logout: 1586779353175
+  lastteleport: 1586791611981
+ipAddress: 192.168.0.143
+lastlocation:
+  world: rwg
+  x: 528.3000000119209
+  y: 60.200000047683716
+  z: 1568.300000011921
+  yaw: 204.76694
+  pitch: -90.0
+logoutlocation:
+  world: rwg
+  x: -875.0652913818874
+  y: 99.71238889992983
+  z: -340.3739624653361
+  yaw: 72.75782
+  pitch: 2.5504298
+money: '1.0'

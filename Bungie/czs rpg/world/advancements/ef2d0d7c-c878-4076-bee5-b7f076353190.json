@@ -1,0 +1,65 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-04-13 17:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-04-13 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-04-13 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-04-13 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-04-13 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-04-13 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-04-13 17:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-04-13 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-04-13 17:24:50 +0200",
+      "minecraft:taiga": "2020-04-13 17:24:35 +0200",
+      "minecraft:taiga_hills": "2020-04-13 17:24:41 +0200",
+      "minecraft:desert": "2020-04-13 17:27:20 +0200",
+      "minecraft:birch_forest": "2020-04-13 17:25:01 +0200",
+      "minecraft:savanna_plateau": "2020-04-13 17:28:06 +0200",
+      "minecraft:beach": "2020-04-13 17:27:46 +0200",
+      "minecraft:wooded_hills": "2020-04-13 17:24:43 +0200",
+      "minecraft:plains": "2020-04-13 17:22:14 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

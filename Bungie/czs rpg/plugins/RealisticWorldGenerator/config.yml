@@ -1,0 +1,34 @@
+customize:
+  trees:
+    fences: true
+    saplings:
+      grow: true
+  bedrock:
+    flat: false
+  random:
+    global: 2624344
+    manual: 5248688
+    grow: 7873032
+  threads: 2
+  command:
+    force_sync: false
+  regeneration:
+    timeBetweenSection: 5.0
+    chunksPerSection: 30
+  pregeneration:
+    timeBetweenSection: 7.5
+    chunksPerSection: 12
+  worlds:
+  - test
+  - rwg
+  - world
+downloads:
+  skip: false
+  mute: false
+schematics:
+  load:
+    mute: true
+log:
+  extended-info: false
+  log-to-console: false
+  log-to-file: true
